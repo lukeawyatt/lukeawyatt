@@ -28,9 +28,9 @@ I'm an engineer; a winemaker; an artisan; a father; a poet; an explorer; and a *
 
 I think **Anthony Bourdain** put it best: 
 
-> "Maybe that's enlightenment enough: to know that there is no final resting place of the mind, no moment of smug clarity. Perhaps wisdom ... is realizing how small I am, and unwise, and how far I have yet to go."
+> **"**Maybe that's enlightenment enough: to know that there is no final resting place of the mind, no moment of smug clarity. Perhaps wisdom ... is realizing how small I am, and unwise, and how far I have yet to go.**"**
 > 
-> Anthony Bourdain, No Reservations
+> ~ *Anthony Bourdain, No Reservations*
 
 This might be a bit untraditional for a bio, but afterall, we're seeking life.  I find it best to not differentiate from this end-goal.  I use GitHub *personally* to support random, one-off needs, to help my kids in their gaming endeavors, and to generally make life easier where I can.
 
@@ -52,7 +52,7 @@ If you found value in something I have created, please feel free to send me a [c
 
 **CURRENTLY LEARNING OR ON-THE-ROSTER**
 
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=goland&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-K8s-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Argo-informational?style=flat&logo=conventionalcommits&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-OpenFaaS-informational?style=flat&logo=openfaas&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Language-Go-informational?style=for-the-badge&logo=goland&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Engine-K8s-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Engine-Argo-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Engine-OpenFaaS-informational?style=for-the-badge&logo=openfaas&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
