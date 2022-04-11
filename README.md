@@ -29,6 +29,7 @@ I'm an engineer; a winemaker; an artisan; a father; a poet; an explorer; and a *
 I think **Anthony Bourdain** put it best: 
 
 > "Maybe that's enlightenment enough: to know that there is no final resting place of the mind, no moment of smug clarity. Perhaps wisdom ... is realizing how small I am, and unwise, and how far I have yet to go."
+> 
 > Anthony Bourdain, No Reservations
 
 This might be a bit untraditional for a bio, but afterall, we're seeking life.  I find it best to not differentiate from this end-goal.  I use GitHub *personally* to support random, one-off needs, to help my kids in their gaming endeavors, and to generally make life easier where I can.
@@ -39,18 +40,19 @@ If you found value in something I have created, please feel free to send me a [c
 
 **TECHNOLOGIES**
 
-![](https://img.shields.io/badge/Language-Dotnet-informational?style=flat&logo=Dotnet&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Language-Shell-informational?style=flat&logo=Shell&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Language-TSQL-informational?style=flat&logo=TSQL&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Language-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Markup-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Language-Dotnet-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Language-Shell-informational?style=for-the-badge&logo=gnubash&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Language-TSQL-informational?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Language-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+
+![](https://img.shields.io/badge/Language-NodeJS-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Markup-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Engine-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
 
 **CURRENTLY LEARNING OR ON-THE-ROSTER**
 
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-K8s-informational?style=flat&logo=K8s&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Argo-informational?style=flat&logo=Argo&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-OpenFaaS-informational?style=flat&logo=FaaS&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=goland&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Engine-K8s-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Engine-Argo-informational?style=flat&logo=conventionalcommits&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Engine-OpenFaaS-informational?style=flat&logo=openfaas&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
