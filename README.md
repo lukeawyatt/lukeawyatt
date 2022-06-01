@@ -24,8 +24,6 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=14&width=800&lines=~$%20git%20clone%20https://github.com/lukeawyatt/docker-tlauncher.git;~$%20docker%20build%20-t%20tlauncher%20docker-tlauncher/source;~$%20docker%20run%20--rm%20-dit%20%20-v%20/tmp/.X11-unix:/tmp/.X11-unix%20-e%20DISPLAY=$DISPLAY%20tlauncher;~$)](https://git.io/typing-svg)
-
 I'm an engineer; a winemaker; an artisan; a father; a poet; an explorer; and a *lifelong learner* who's embarked on a path of existential discovery. I've been engineering software for over a decade now and still find it exciting. This journey of life has been difficult so far, but quite interesting.  I've been fortunate to have many individuals walk alongside me and am grateful for each and every one of them.
 
 I think **Anthony Bourdain** put it best: 
@@ -37,6 +35,8 @@ I think **Anthony Bourdain** put it best:
 This might be a bit untraditional for a bio, but afterall, we're seeking life.  I find it best to not differentiate from this end-goal.  I use GitHub *personally* to support random, one-off needs, to help my kids in their gaming endeavors, and to generally make life easier where I can.
 
 If you found value in something I have created, please feel free to send me a [coffee](https://www.buymeacoffee.com/lukeawyatt), or better yet, pay-it-forward by supporting international amateur poets ([The Skrews Syndication, (EN)](https://loose.skre.ws/issues/000.html)) who have shed beautiful and vulnerable pieces of thier own journeys through poetry.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=14&width=800&lines=~$%20git%20clone%20https://github.com/lukeawyatt/docker-tlauncher.git;~$%20docker%20build%20-t%20tlauncher%20docker-tlauncher/source;~$%20docker%20run%20--rm%20-dit%20%20-v%20/tmp/.X11-unix:/tmp/.X11-unix%20-e%20DISPLAY=$DISPLAY%20tlauncher;~$)](https://git.io/typing-svg)
 
 ---
 
