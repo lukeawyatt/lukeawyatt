@@ -2,23 +2,43 @@
 
 <p align='center'>
     <a href="https://github.com/lukeawyatt">
-        <img height="35" src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/github.png?raw=true">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/github.dark.png?raw=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/github.png?raw=true">
+            <img src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/github.png?raw=true" width="35" height="35">
+        </picture>
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/luke.a.wyatt">
-        <img height="35" src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/instagram.jpg?raw=true">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/instagram.dark.jpg?raw=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/instagram.jpg?raw=true">
+            <img src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/instagram.jpg?raw=true" width="35" height="35">
+        </picture>
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://maug.moulach.com">
-        <img height="35" src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/wine.png?raw=true">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/wine.dark.png?raw=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/wine.png?raw=true">
+            <img src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/wine.png?raw=true" width="35" height="35">
+        </picture>
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://loose.skre.ws">
-        <img height="35" src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/skrews.jpg?raw=true">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/skrews.dark.jpg?raw=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/skrews.jpg?raw=true">
+            <img src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/skrews.jpg?raw=true" width="35" height="35">
+        </picture>
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.buymeacoffee.com/lukeawyatt">
-        <img height="35" src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/buy-me-a-coffee.png?raw=true">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/buy-me-a-coffee.dark.png?raw=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/buy-me-a-coffee.png?raw=true">
+            <img src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/buy-me-a-coffee.png?raw=true" width="35" height="35">
+        </picture>
     </a>
 </p>
 
