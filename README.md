@@ -24,6 +24,8 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=14&width=800&lines=~$%20git%20clone%20https://github.com/lukeawyatt/docker-tlauncher.git;~$%20docker%20build%20-t%20tlauncher%20docker-tlauncher/source;~$%20docker%20run%20--rm%20-dit%20%20-v%20/tmp/.X11-unix:/tmp/.X11-unix%20-e%20DISPLAY=$DISPLAY%20tlauncher;~$)](https://git.io/typing-svg)
+
 I'm an engineer; a winemaker; an artisan; a father; a poet; an explorer; and a *lifelong learner* who's embarked on a path of existential discovery. I've been engineering software for over a decade now and still find it exciting. This journey of life has been difficult so far, but quite interesting.  I've been fortunate to have many individuals walk alongside me and am grateful for each and every one of them.
 
 I think **Anthony Bourdain** put it best: 
@@ -55,6 +57,7 @@ If you found value in something I have created, please feel free to send me a [c
 ![](https://img.shields.io/badge/Stack-Jamstack-informational?style=for-the-badge&logo=jamstack&logoColor=white&color=d98880)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Stack-MEAN-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=d98880)&nbsp;&nbsp;
 
+---
 
 **CURRENTLY LEARNING OR ON-THE-ROSTER**
 
