@@ -7,11 +7,11 @@ This file is used only for markdown snippets related to my profile.
 ![Fancy light logo](https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/github.png?raw=true#gh-light-mode-only)
 
 <a href="https://github.com/lukeawyatt">
-    <img height="35" src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/github.png?raw=true#gh-dark-mode-only>
+    <img height="35" src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/github.png#gh-dark-mode-only?raw=true">
 </a>
 
 <a href="https://github.com/lukeawyatt">
-    <img height="35" src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/github.png?raw=true#gh-light-mode-only">
+    <img height="35" src="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/github.png#gh-light-mode-only?raw=true">
 </a>
 
 
