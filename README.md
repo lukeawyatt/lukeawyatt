@@ -25,7 +25,7 @@
         </picture>
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://loose.skre.ws">
+    <a href="https://loose.skre.ws/tree/ig.lw.html">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/skrews.dark.jpg?raw=true">
             <source media="(prefers-color-scheme: light)" srcset="https://github.com/lukeawyatt/lukeawyatt/blob/main/assets/icons/skrews.jpg?raw=true">
