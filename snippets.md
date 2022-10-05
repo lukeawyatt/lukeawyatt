@@ -1,4 +1,4 @@
-This file is used only for markdown snippets related to my profile.
+This file is used to collect markdown snippets for GitHub profile.  These have been captured from various profiles that have crossed my path.
 
 ---
 
