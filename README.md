@@ -87,3 +87,4 @@ If you found value in something I have created, please feel free to send me a [c
 ![](https://img.shields.io/badge/Language-Go-informational?style=for-the-badge&logo=goland&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Platform-K8s-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=af7ac5)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Engine-Nuclio-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Engine-Spark-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp;
